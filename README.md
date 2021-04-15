@@ -9,7 +9,6 @@
 ```bash
 go get github.com/engelsjk/svgg
 ```
-<<<<<<< HEAD
 
 ## Usage
 
@@ -32,5 +31,3 @@ dc.SavePNG("image.png")
 ```
 
 ![](images/demo.png)
-=======
->>>>>>> e8c657491d62c185694c4afc81f5d84c035a26ff
